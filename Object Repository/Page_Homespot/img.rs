@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>eaf041ae-161f-471d-93f2-9f4d79f7aeac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Close Button&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div/div/div/button/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c8d25fc9-3676-4744-81db-498ff9fdc869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/icons/Close_Circle.svg</value>
+      <webElementGuid>5fb76190-a8f5-45dc-84c3-aa7772da70c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Close Button</value>
+      <webElementGuid>4aa87d44-ba20-4ede-ac4f-6d202bc1e806</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[@class=&quot;landing-page__wrapper __dashboard-bg&quot;]/div[@class=&quot;landing-page__jumbotron&quot;]/div[1]/div[@class=&quot;flex justify-center items-center overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none bg-black bg-opacity-50&quot;]/div[@class=&quot;relative w-auto my-6 mx-auto max-w-3xl&quot;]/button[@class=&quot;bg-transparent border-0 text-black ml-96&quot;]/img[1]</value>
+      <webElementGuid>1b472cce-b609-45c3-9c9d-05a7469d6b6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div/div/div/button/img</value>
+      <webElementGuid>ef33beef-ccf0-4073-ac54-f948207b0cec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Close Button']</value>
+      <webElementGuid>c624d908-b8bc-4aac-ae0f-328fccd847f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/img</value>
+      <webElementGuid>6f5c5271-677d-44a3-b565-0ef8d3dc2e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/icons/Close_Circle.svg' and @alt = 'Close Button']</value>
+      <webElementGuid>7ae0b638-62e7-4a6b-baae-bf584b69ac92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

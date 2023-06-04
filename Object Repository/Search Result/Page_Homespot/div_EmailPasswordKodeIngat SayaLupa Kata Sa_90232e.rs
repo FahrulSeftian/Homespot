@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EmailPasswordKodeIngat SayaLupa Kata Sa_90232e</name>
+   <tag></tag>
+   <elementGuidId>b50b0441-8130-4e49-80ad-a177e1edb352</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cac5b6f6-604a-4a47-b5d6-39b992ae4707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EmailPasswordKodeIngat SayaLupa Kata Sandi?Masukatau masuk denganFacebookGoogleBelum punya akun? Daftar</value>
+      <webElementGuid>6cb07b75-f6fb-48a8-811b-3e76a1e25617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[2]/div[@class=&quot;flex justify-center items-center overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none bg-black bg-opacity-50&quot;]/div[@class=&quot;relative w-auto mobile:w-11/12 m-6 mx-auto max-w-3xl&quot;]/div[@class=&quot;max-w-2xl min-w-[32vw] max-h-[90vh] border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none&quot;]/div[@class=&quot;p-6 pt-2 pb-0 flex-auto max-h-[75vh] overflow-y-auto&quot;]/div[@class=&quot;w-full&quot;]/div[1]</value>
+      <webElementGuid>117d427d-5ea7-49c4-8575-ccf280e26dd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>5d105e0f-e924-4c5b-b1ab-c48552771244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::div[3]</value>
+      <webElementGuid>5e1801bf-e7c8-4884-8f9e-96689415b6c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>621cd202-9242-4044-9052-b26f23fa0511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EmailPasswordKodeIngat SayaLupa Kata Sandi?Masukatau masuk denganFacebookGoogleBelum punya akun? Daftar' or . = 'EmailPasswordKodeIngat SayaLupa Kata Sandi?Masukatau masuk denganFacebookGoogleBelum punya akun? Daftar')]</value>
+      <webElementGuid>38ab9dfa-56f0-46de-b8f5-4daa10e3815b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

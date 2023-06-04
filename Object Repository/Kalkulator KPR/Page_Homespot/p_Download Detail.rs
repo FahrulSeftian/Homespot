@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Download Detail</name>
+   <tag></tag>
+   <elementGuidId>443aae0b-825f-4b70-88e6-1d0e95cdc590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.basic-button__text-style--blue.text-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div/div[2]/div/div/div[2]/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>17d4736b-61b7-481a-b709-12fc033777d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>basic-button__text-style--blue text-primary</value>
+      <webElementGuid>916e7e85-c28a-4532-bc98-1d143ffae686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Download Detail</value>
+      <webElementGuid>8487e326-674b-4f89-abff-e3848712aa20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[1]/div[@class=&quot;kprSim__bodyWrapper&quot;]/div[@class=&quot;kprSim__pages__wrapper&quot;]/div[@class=&quot;kprSim__pages__card-wrap&quot;]/div[@class=&quot;kprSim__pages__right__wrapperFull&quot;]/div[@class=&quot;kprSim__pages__right__detailLoans__wrapper&quot;]/div[@class=&quot;kprSim__pages__right__buttonWrapper&quot;]/button[@class=&quot;basic-button__button-color--blueLight basic-button__width--full basic-button__padding-size--padding-1&quot;]/p[@class=&quot;basic-button__text-style--blue text-primary&quot;]</value>
+      <webElementGuid>69086767-ec22-47fd-896d-f847dd9f2503</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div/div[2]/div/div/div[2]/button/p</value>
+      <webElementGuid>b69657b6-48e0-4bd4-a5f3-df2155bb0ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 11.335.232'])[204]/following::p[1]</value>
+      <webElementGuid>a5aabf25-cdc7-424e-9fbb-f14f71cc35af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 0'])[2]/following::p[1]</value>
+      <webElementGuid>d657e8ca-096e-42d5-824a-8288168ece82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download Detail']/parent::*</value>
+      <webElementGuid>892e3d85-a20f-4f86-bba4-33e01f9f5d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/p</value>
+      <webElementGuid>7d71e2c7-1dd7-4aab-bfaf-5d59420ab25a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Download Detail' or . = 'Download Detail')]</value>
+      <webElementGuid>2282ecb1-be03-4aea-8712-c2f3f079158c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_E_textbox-label__textboxWrapper</name>
+   <tag></tag>
+   <elementGuidId>16c738c8-f8b3-41ba-9c34-45687156cee3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.textbox-label__textboxWrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c10460ff-74c3-48b0-a485-499a04e8a535</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>textbox-label__textboxWrapper</value>
+      <webElementGuid>ed5e56b8-072b-495c-aa39-652f5376acef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[@class=&quot;landing-page__wrapper __dashboard-bg&quot;]/div[@class=&quot;landing-page__jumbotron&quot;]/div[@class=&quot;mt-[80px]&quot;]/div[@class=&quot;p-[30px] mobile:mr-[0px] tab:mr-[0px] largePc:mr-[20px] smallPc:mr-[20px] bg-white rounded-2xl&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;flex flex-row gap-3&quot;]/div[@class=&quot;textbox-label__wrapper&quot;]/div[@class=&quot;textbox-label__textboxWrapper&quot;]</value>
+      <webElementGuid>a41a9be5-49c0-48d1-965e-24455906eba0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>cb85992c-351b-4f70-a87e-8ab32f5b6514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[1]/following::div[21]</value>
+      <webElementGuid>322126bf-e4d3-4710-9e2e-6b4dc23acea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada pemberitahuan baru'])[1]/following::div[23]</value>
+      <webElementGuid>2bf4e62e-1981-4da8-8306-bcb877a361fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Properti Baru Dekat Kamu'])[1]/preceding::div[9]</value>
+      <webElementGuid>236356b2-9967-4605-83d4-d51579f44881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[1]/preceding::div[10]</value>
+      <webElementGuid>0ae49bd1-66d5-4c0d-b61a-6589afa6260a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>08c104a2-5bea-4dab-a375-fc71cd4fee7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

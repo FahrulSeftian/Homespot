@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_WhatsappEmail Support</name>
+   <tag></tag>
+   <elementGuidId>f5a002e5-4c35-45cc-b5d6-d80f6a9f1c81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-row.space-x-12.place-self-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93102515-6492-4622-931b-1a1afa01fae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-row space-x-12 place-self-center</value>
+      <webElementGuid>8d32e2af-d4d1-473d-a41b-39ac25748318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WhatsappEmail Support</value>
+      <webElementGuid>b9617e0d-fe46-4f19-a38a-21fc1faabd75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[@class=&quot;about__wrapper&quot;]/div[@class=&quot;about__card about__cardAbout&quot;]/div[@class=&quot;about__about-us gtc-about-us&quot;]/div[@class=&quot;about__about-us-txt&quot;]/div[@class=&quot;flex justify-center items-center mb-8&quot;]/div[@class=&quot;flex flex-row space-x-12 place-self-center&quot;]</value>
+      <webElementGuid>123a4a53-11b8-4066-bc1b-71c42288ba11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>bbce969c-a3d7-4dc2-9a69-f0f380176d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/following::div[2]</value>
+      <webElementGuid>8ba68582-8287-453d-98d0-e46f4cfc7343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[3]/following::div[5]</value>
+      <webElementGuid>3c80ee48-05a9-4ec2-a4f2-d4e44eccb0c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>202006f4-d53e-4b8c-983e-3443b0562112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'WhatsappEmail Support' or . = 'WhatsappEmail Support')]</value>
+      <webElementGuid>97944773-641f-4160-8be5-7097a409e2d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

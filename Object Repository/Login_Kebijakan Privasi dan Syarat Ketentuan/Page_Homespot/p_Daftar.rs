@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Daftar</name>
+   <tag></tag>
+   <elementGuidId>0c6c0cb8-0a59-481a-8780-837d29ab27ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/div[9]/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>54aea64f-48de-4b5e-8bbe-30177a348d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-medium text-[#F87304] text-[14px]</value>
+      <webElementGuid>48a336ef-c70e-4dd3-8d8e-5d082ef5f9a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar</value>
+      <webElementGuid>06c73be1-f4b9-45e7-b8bb-df0329f8e60f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[2]/div[@class=&quot;flex justify-center items-center overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none bg-black bg-opacity-50&quot;]/div[@class=&quot;relative w-auto mobile:w-11/12 m-6 mx-auto max-w-3xl&quot;]/div[@class=&quot;max-w-2xl min-w-[32vw] max-h-[90vh] border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none&quot;]/div[@class=&quot;p-6 pt-2 pb-0 flex-auto max-h-[75vh] overflow-y-auto&quot;]/div[@class=&quot;w-full&quot;]/div[1]/div[@class=&quot;flex place-content-center&quot;]/button[1]/p[@class=&quot;font-medium text-[#F87304] text-[14px]&quot;]</value>
+      <webElementGuid>58712351-aaa2-4edb-97cc-463277c54e1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/div[9]/button/p</value>
+      <webElementGuid>5aac1e8d-3d44-4f06-8aa7-ef9bad9e34e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::p[2]</value>
+      <webElementGuid>d8b0f64b-a9bf-444e-b6ae-4a8c4059bcd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::p[3]</value>
+      <webElementGuid>023570d0-b219-407a-8d04-70121ddcd416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open main menu'])[1]/preceding::p[1]</value>
+      <webElementGuid>4d16563e-91f5-464a-ac1b-3f5c8ac68813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Properti Baru Dekat Kamu'])[1]/preceding::p[12]</value>
+      <webElementGuid>f086b382-ea66-41c9-8245-671048eee461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>1d597f7f-4e1b-40df-ae34-a2290aed964a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/button/p</value>
+      <webElementGuid>8c5f870b-661c-480b-85d7-18bb5d522f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Daftar' or . = 'Daftar')]</value>
+      <webElementGuid>f3206d07-ad49-42dd-9cbf-f34717f49403</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

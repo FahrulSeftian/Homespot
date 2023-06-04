@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Ya</name>
+   <tag></tag>
+   <elementGuidId>39e0f8c2-ad97-4a72-adbc-267f6c02af47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.basic-button__text-style--white.text-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div/div/div[2]/div[3]/div/div/div/div/div[2]/div/div/div/button[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3bf85869-6f31-4f85-82e3-b3eec30dab20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>basic-button__text-style--white text-primary</value>
+      <webElementGuid>df888f4e-f488-4468-ab9b-eb01850014da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ya</value>
+      <webElementGuid>e8285654-9590-4c31-8e00-f102b0c85db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[1]/div[@class=&quot;flex justify-center items-center overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none bg-black bg-opacity-50&quot;]/div[@class=&quot;relative w-[80%] h-auto bg-transparent&quot;]/div[@class=&quot;px-4 pb-4 bg-white rounded-lg&quot;]/div[@class=&quot;gmapsApps__wrapper&quot;]/div[@class=&quot;block&quot;]/div[1]/div[@class=&quot;flex justify-center items-center overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none bg-black bg-opacity-50&quot;]/div[@class=&quot;relative w-auto mobile:w-11/12 m-6 mx-auto max-w-3xl&quot;]/div[@class=&quot;max-w-2xl min-w-[32vw] max-h-[90vh] border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none&quot;]/div[@class=&quot;p-6 pt-2 pb-0 flex-auto max-h-[75vh] overflow-y-auto&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;confirm-btn__wrapper&quot;]/div[@class=&quot;confirm-btn__btn-wrap&quot;]/button[@class=&quot;basic-button__button-color--blue basic-button__padding-size--padding-0&quot;]/p[@class=&quot;basic-button__text-style--white text-primary&quot;]</value>
+      <webElementGuid>29078caf-03c6-486d-8c74-1a53a205afde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div/div/div[2]/div[3]/div/div/div/div/div[2]/div/div/div/button[2]/p</value>
+      <webElementGuid>7ebb8dbd-1734-407a-b836-10b5dbe6e396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi'])[1]/following::p[3]</value>
+      <webElementGuid>3b101bc0-c5b8-40fe-afc2-054b4b34fc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Laporkan kesalahan peta'])[1]/following::p[3]</value>
+      <webElementGuid>b3544f89-8edb-4717-adc5-75502b621272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::p[1]</value>
+      <webElementGuid>7c105b8f-d739-4302-9703-540f02784ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::p[1]</value>
+      <webElementGuid>f46f775f-a5ae-4e71-bb19-855228de7afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
+      <webElementGuid>f3f0c04a-8c8d-4fd9-919e-e9ec2d7dfe2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/p</value>
+      <webElementGuid>cfff5b2b-efb9-4a0d-8596-0a28a7d5746e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Ya' or . = 'Ya')]</value>
+      <webElementGuid>93c25c7f-8945-4e33-9974-c4a239209cf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

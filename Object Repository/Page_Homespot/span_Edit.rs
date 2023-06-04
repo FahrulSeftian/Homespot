@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Edit</name>
+   <tag></tag>
+   <elementGuidId>9e59efec-a53a-4cdf-b47b-913df5c39113</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.flex.gap-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/button/p/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bdc8dd5e-3e3d-4bda-9242-28f5a1a2e778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex gap-2</value>
+      <webElementGuid>6114f8fb-c861-48ed-8739-2cf97a08da76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Edit</value>
+      <webElementGuid>9db693e4-8dfd-4ce2-b388-07a5b725f0ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[1]/div[2]/div[@class=&quot;profile__topWrapper&quot;]/div[@class=&quot;profile__wrapper gtc-side-menu&quot;]/div[@class=&quot;profile__sidemenu-children&quot;]/div[@class=&quot;profile-page__wrapper&quot;]/div[@class=&quot;profile-page__body-wrap gtc-profile-page-s&quot;]/div[2]/div[@class=&quot;profile-page__edit-btn-wrap mobile:mt-4&quot;]/div[2]/button[@class=&quot;basic-button__button-color--orangeBorderOnly basic-button__padding-size--padding-0 profile-page__edit-btn&quot;]/p[@class=&quot;basic-button__text-style--orange text-primary&quot;]/span[@class=&quot;flex gap-2&quot;]</value>
+      <webElementGuid>bd773681-9cb4-4f65-a152-a1776ecd97d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/button/p/span</value>
+      <webElementGuid>6681edf8-33b6-4dac-bffc-7a7ca3ca879b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>13f4b560-87d3-4e47-b1f1-031cf9f0173e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Profile'])[1]/following::span[2]</value>
+      <webElementGuid>abb5be6f-c00a-49c2-8b7f-559088ab008f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/preceding::span[1]</value>
+      <webElementGuid>64be672f-7d13-40b3-9d4c-f191d2ffe599</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tempat Lahir'])[1]/preceding::span[1]</value>
+      <webElementGuid>297354ff-c6a6-42eb-ab85-511a81fc90ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>4ed3295b-00cd-48c5-a833-7303f8df5b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p/span</value>
+      <webElementGuid>e8822415-0058-4133-9127-934791468725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Edit' or . = ' Edit')]</value>
+      <webElementGuid>b4690756-41fb-44f7-a270-8a515b1bfd4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

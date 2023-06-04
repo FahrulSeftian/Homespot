@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Semua</name>
+   <tag></tag>
+   <elementGuidId>c5d9f490-930e-4fbc-a3af-3c259b070f45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div[2]/div/div[3]/div/div/button/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > div > button.landing-page.dropdown-srch > div.landing-page.dropdown-srch__btn-wrap > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1ad9c17b-be3f-42d8-abbc-727ec9dd553b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua</value>
+      <webElementGuid>0ffa8a8a-06d6-4a40-a9ec-9175b6670155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[@class=&quot;landing-page__wrapper __dashboard-bg&quot;]/div[@class=&quot;landing-page__jumbotron&quot;]/div[@class=&quot;mt-[80px]&quot;]/div[@class=&quot;p-[30px] mobile:mr-[0px] tab:mr-[0px] largePc:mr-[20px] smallPc:mr-[20px] bg-white rounded-2xl&quot;]/div[@class=&quot;flex&quot;]/div[1]/div[1]/button[@class=&quot;landing-page dropdown-srch&quot;]/div[@class=&quot;landing-page dropdown-srch__btn-wrap&quot;]/p[1]</value>
+      <webElementGuid>bdea04c3-72cf-4e23-9a44-4fd3728b4f0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div/div[3]/div/div/button/div/p</value>
+      <webElementGuid>3bbed006-aca1-405f-91eb-e93bcb8ab0a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E'])[1]/following::p[18]</value>
+      <webElementGuid>16eea6b1-193b-4d72-b229-2c5acf791124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak ada pemberitahuan baru'])[1]/following::p[18]</value>
+      <webElementGuid>92a4452a-769a-4628-870f-f724f9a1f226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Properti Baru Dekat Kamu'])[1]/preceding::p[1]</value>
+      <webElementGuid>4e611eca-32be-4697-880f-18db0bba4f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[1]/preceding::p[2]</value>
+      <webElementGuid>cc5190f2-8fbf-449e-8a6e-493eebbd27a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua']/parent::*</value>
+      <webElementGuid>cbcb1cc8-0db5-46f2-a5f6-8908f3a2a3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/button/div/p</value>
+      <webElementGuid>15096670-ff46-4814-bc52-b4d516bad206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Semua' or . = 'Semua')]</value>
+      <webElementGuid>08ea7baa-5ea3-4ade-8d4c-3f87a46fce0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

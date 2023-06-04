@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Kalkulasi</name>
+   <tag></tag>
+   <elementGuidId>487800c6-9297-4149-af78-cfc5ff122d96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.basic-button__text-style--white.text-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div[6]/div/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>53003f24-6641-4b1c-8d17-41ccc7919aa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>basic-button__text-style--white text-primary</value>
+      <webElementGuid>8f12168c-c28d-4584-8647-63fd0320151a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kalkulasi</value>
+      <webElementGuid>3c5db05b-337a-4541-9d77-528e96b3c104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[@class=&quot;landing-page__hww-calc-wrapper&quot;]/div[@class=&quot;prod-detail__pages__property__detailBuying__left__detailCard__wrapper&quot;]/button[@class=&quot;basic-button__button-color--orange basic-button__width--full basic-button__padding-size--padding-0&quot;]/p[@class=&quot;basic-button__text-style--white text-primary&quot;]</value>
+      <webElementGuid>f5222766-d35e-4265-adfb-40551d99a08f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div[6]/div/button/p</value>
+      <webElementGuid>3da4e295-1914-4024-8210-45b040f4617d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/following::p[2]</value>
+      <webElementGuid>9e59f67d-d84d-40ec-a8c1-96cf0e82551c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suku Bunga'])[1]/following::p[2]</value>
+      <webElementGuid>24dfca91-1ba1-4d47-b4e3-deac479e7619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kantor Pusat'])[1]/preceding::p[1]</value>
+      <webElementGuid>608ded88-26d0-434a-a6bf-30d3de37c621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dukungan'])[1]/preceding::p[2]</value>
+      <webElementGuid>e1814624-07aa-47c8-a763-c54cc14c016c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kalkulasi']/parent::*</value>
+      <webElementGuid>7733cdab-aff9-49b9-a714-bf2fc8e50ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/button/p</value>
+      <webElementGuid>ca68a0a3-c63b-4274-b258-3edd787c90cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kalkulasi' or . = 'Kalkulasi')]</value>
+      <webElementGuid>b51c73df-1a08-418b-ad76-a1113873c7e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

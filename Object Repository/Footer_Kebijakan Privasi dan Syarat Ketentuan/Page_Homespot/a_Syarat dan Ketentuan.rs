@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Syarat dan Ketentuan</name>
+   <tag></tag>
+   <elementGuidId>4b9f87f3-4b4c-4a8f-bc9b-e26e3e2c3681</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div[7]/div/div[2]/div[3]/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2145fad0-59ca-41ef-8cac-3420bb650f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>terms-and-conditions</value>
+      <webElementGuid>be362b55-225c-472e-a19d-b6950c6c71e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat dan Ketentuan</value>
+      <webElementGuid>02f404d0-8bd9-4d81-baca-083298173258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[@class=&quot;footer__wrapper&quot;]/div[@class=&quot;footer__grid-footer&quot;]/div[@class=&quot;footer__child-wrapper&quot;]/div[@class=&quot;flex mb-6&quot;]/p[1]/a[1]</value>
+      <webElementGuid>26871271-8664-47bf-96f2-a6ebd332661c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div[7]/div/div[2]/div[3]/p/a</value>
+      <webElementGuid>e0f2ceec-84e5-495d-acb5-64efae17513f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Syarat dan Ketentuan')]</value>
+      <webElementGuid>9478943a-5eeb-4df3-85bb-9c6b0237be7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Privasi'])[1]/following::a[1]</value>
+      <webElementGuid>4479bda6-dced-4bfa-83f3-d2c31e1452be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dukungan'])[1]/following::a[2]</value>
+      <webElementGuid>eab34ce7-1c69-4de7-aedb-f4d62659711b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hubungi Kami'])[1]/preceding::a[1]</value>
+      <webElementGuid>4f79625a-e2fb-47d4-935c-c46c730b2fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Homespot oleh :'])[1]/preceding::a[1]</value>
+      <webElementGuid>3469ba8a-09cf-4a8d-8eaa-caef3c7caacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Syarat dan Ketentuan']/parent::*</value>
+      <webElementGuid>665eb396-2295-4e75-abfb-38d1a8f3435d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'terms-and-conditions')]</value>
+      <webElementGuid>6986dd16-7234-454b-a853-1bdfe68137a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/p/a</value>
+      <webElementGuid>e5e409ce-f4a2-4655-bb77-65aa628ce2ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'terms-and-conditions' and (text() = 'Syarat dan Ketentuan' or . = 'Syarat dan Ketentuan')]</value>
+      <webElementGuid>327218bb-8712-4477-93b6-06a28aa47079</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

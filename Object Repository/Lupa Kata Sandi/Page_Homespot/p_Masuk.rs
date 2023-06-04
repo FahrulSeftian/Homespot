@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Masuk</name>
+   <tag></tag>
+   <elementGuidId>efc37baa-a3b5-415d-82b8-7ebfe0fc84b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.basic-button__text-style--white.text-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/div[6]/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>87c4be9b-b5e5-450b-b6cb-ea9481d6e38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>basic-button__text-style--white text-primary</value>
+      <webElementGuid>d0604e18-0855-466e-83c7-55440a0764c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>016d1985-cd47-45e0-a74f-c501cd75e4b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[2]/div[@class=&quot;flex justify-center items-center overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none bg-black bg-opacity-50&quot;]/div[@class=&quot;relative w-auto mobile:w-11/12 m-6 mx-auto max-w-3xl&quot;]/div[@class=&quot;max-w-2xl min-w-[32vw] max-h-[90vh] border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none&quot;]/div[@class=&quot;p-6 pt-2 pb-0 flex-auto max-h-[75vh] overflow-y-auto&quot;]/div[@class=&quot;w-full&quot;]/div[1]/div[@class=&quot;w-full my-4&quot;]/button[@class=&quot;basic-button__button-color--blue basic-button__width--full basic-button__padding-size--padding-1&quot;]/p[@class=&quot;basic-button__text-style--white text-primary&quot;]</value>
+      <webElementGuid>fd9d1849-124a-46ad-acfe-8c6cc431cc30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/div[6]/button/p</value>
+      <webElementGuid>818de21d-8d96-4ed9-93cc-a39b010bfa97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode'])[1]/following::p[3]</value>
+      <webElementGuid>1a234ad9-4b48-4da0-9e55-70913df01424</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::p[3]</value>
+      <webElementGuid>a8bce423-2f0d-4c7f-a68b-18f33ad27051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau masuk dengan'])[1]/preceding::p[1]</value>
+      <webElementGuid>3d8b2565-28cb-4eb4-91df-17329da0d69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::p[1]</value>
+      <webElementGuid>a85f79ec-9f0f-4e33-bb95-eaa8b37d756a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/p</value>
+      <webElementGuid>b23f4f54-53b9-49ea-929d-00ba328a021f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>66b89e79-d174-45ff-a202-17d6cffce610</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

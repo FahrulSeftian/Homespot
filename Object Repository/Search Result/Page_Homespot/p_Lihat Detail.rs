@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Lihat Detail</name>
+   <tag></tag>
+   <elementGuidId>4a455d92-2562-441a-94ec-256e1b871451</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div[2]/div/div/div[3]/div/div[2]/div[2]/div[2]/button/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4e272216-1879-4b6b-bd7f-b3758fe5d753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>basic-button__text-style--blue text-primary</value>
+      <webElementGuid>9322bc96-be59-41b4-9e17-deff384014e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Detail</value>
+      <webElementGuid>61f70dc0-a8ff-459c-b94a-ec29ca4556a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[6]/div[1]/div[@class=&quot;search-result__bodyWrapper&quot;]/div[@class=&quot;search-result__flexLeftWrapper&quot;]/div[1]/div[3]/div[@class=&quot;hs-search-rslt__wrap&quot;]/div[@class=&quot;mobile:mt-[15px] tab:mt-[15px] smallPc:mt-[20px] w-[100%] cursor-pointer&quot;]/div[@class=&quot;hs-search-rslt__dev-wrap mb-0&quot;]/div[2]/button[@class=&quot;basic-button__button-color--blueLight basic-button__padding-size--padding-0 text-xs&quot;]/p[@class=&quot;basic-button__text-style--blue text-primary&quot;]</value>
+      <webElementGuid>621f363e-9453-4314-934b-d9efad2bd887</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div[2]/div/div/div[3]/div/div[2]/div[2]/div[2]/button/p</value>
+      <webElementGuid>098380c9-9b87-4343-808e-d8d729345126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent Property Raywhite 9'])[1]/following::p[5]</value>
+      <webElementGuid>ac45d377-f764-4c94-8e54-32f48960ec60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent Property Raywhite 8'])[1]/preceding::p[2]</value>
+      <webElementGuid>99b650f2-3250-4b30-bc1f-6e298fc0dd97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/div[2]/button/p</value>
+      <webElementGuid>ee84bd6e-8862-4c26-b803-456397bbfee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Lihat Detail' or . = 'Lihat Detail')]</value>
+      <webElementGuid>84e11315-7267-4bb7-b186-22d07f557f6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
